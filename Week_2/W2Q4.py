@@ -1,0 +1,1 @@
+# Write a function to display all "n" narcissistic number. for ex: 153 is a 3 narcissist number bcz  153 = 1^3 + 5^3 + 3^3.
