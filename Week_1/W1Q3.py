@@ -4,7 +4,7 @@ def Armstrong_num(n,l):
     for i in range(l):
         rem = temp%10
         sum+= pow(rem,l)
-        temp = int(temp/10)
+        temp = temp//10
     if sum == n :
         print("It's an Armstrong Number")
     else :
